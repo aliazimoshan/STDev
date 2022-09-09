@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:stdev/utils/color_utils.dart';
-import 'package:stdev/utils/size_utils.dart';
 
 class ButtonWidget extends StatelessWidget {
   final String title;

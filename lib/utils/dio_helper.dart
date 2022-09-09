@@ -1,7 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:stdev/constant/token.dart';
-import 'package:stdev/constant/urls.dart';
 
 class DioHelper {
   static Future post(

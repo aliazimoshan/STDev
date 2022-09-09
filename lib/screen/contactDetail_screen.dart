@@ -9,7 +9,6 @@ import 'package:stdev/widget/button_widget.dart';
 import 'package:stdev/widget/detailContact_widget/contactDetailHeader_widget.dart';
 import 'package:stdev/widget/detailContact_widget/contactDetailItem_widget.dart';
 import 'package:stdev/widget/detailContact_widget/dialog_widget.dart';
-import 'package:stdev/widget/detailContact_widget/updateContactForm_widget.dart';
 import 'package:stdev/widget/loading_widget.dart';
 import 'package:url_launcher/url_launcher.dart';
 
